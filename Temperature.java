@@ -1,5 +1,4 @@
-public class Demo2 {
-    public class Temperature {
+public class Temperature {
     
     private double celsius;
 
@@ -22,4 +21,4 @@ public class Demo2 {
     }
 }
     
-}
+
